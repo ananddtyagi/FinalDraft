@@ -175,7 +175,7 @@ def review_and_fix_code(restructured_code: str) -> str:
     {restructured_code}
     """
 
-    reviewed_code = call_deepseek_coder(review_prompt)
+    reviewed_code = call_llm(review_prompt)
     return extract_code(reviewed_code)
 
 

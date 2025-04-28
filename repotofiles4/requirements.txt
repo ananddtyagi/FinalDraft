@@ -1,0 +1,12 @@
+
+
+```
+python-dotenv
+aiohttp
+pydantic
+langchain
+langchain_pinecone
+pinecone-client
+llama_index
+octoai
+```

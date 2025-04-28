@@ -1,0 +1,16 @@
+
+
+aiohttp==3.8.4
+asyncio==3.4.3
+python-dotenv==0.19.2
+langchain==0.0.184
+octoai-sdk==0.3.0
+pinecone-client==2.2.1
+pydantic==1.10.7
+typing==3.7.4.3
+langchain-pinecone==0.0.1
+langchain-community==0.0.3
+glob2==0.7
+gitpython==3.1.30
+transformers==4.28.1
+torch==1.13.1

@@ -1,0 +1,12 @@
+
+
+```
+python-dotenv
+aiohttp
+asyncio
+pydantic
+langchain
+pinecone-client
+huggingface-hub
+octoai
+```
